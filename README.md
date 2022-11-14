@@ -14,4 +14,4 @@
  * No shady stuff is going on
 
 # Known problems
-* -
+* No release versions. You need to compile them. 
